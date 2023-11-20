@@ -1,0 +1,15 @@
+1. booking prices treba doratat cez tickets v GENERATE
+
+4. edit movie categories
+
+Zlozitejsie
+
+    Vytvorenie objednávky
+    Potvrdenie objednávky
+    Zrušenie neuzavretých objednávok
+    Kompenzácia predstavenia
+
+Statistika
+
+    Filmy mesiaca
+    Mesačné tržby
